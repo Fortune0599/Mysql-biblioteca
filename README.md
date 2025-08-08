@@ -52,5 +52,5 @@ Ele simula o funcionamento básico de uma biblioteca, permitindo gerenciar livro
 
 ---
 
-> 📌 *Este projeto é apenas para fins de estudo e prática em MySQL.*
+
 
