@@ -47,8 +47,8 @@ Ele simula o funcionamento básico de uma biblioteca, permitindo gerenciar livro
 ## 🧑‍💻 Autor
 
 **Fortune Aristote Audate**  
-💼 [LinkedIn](https://www.linkedin.com/in/seu-perfil)  
-📌 [GitHub](https://github.com/seu-usuario)
+💼 [LinkedIn](https://www.linkedin.com/in/fortune-aristote-audate-8697572aa/)  
+📌 [GitHub](https://github.com/Fortune0599)
 
 ---
 
